@@ -1,2 +1,0 @@
-HASH = 'dea3b7667187e5da198befdb07062315'
-salt = "79641fb0b21c"
